@@ -33,7 +33,7 @@
   logo: "/images/example-logo.png",
   hero: ["Example hero text line 1", "Examle Hero text line 2"],
   hero_image: ["/images/example-hero.png"],
-  domain: "https://lite.localcafe.org/",
+  domain: "https://fullstack-ing.github.io/localcafe-lite",
   social_links: [
     instagram: "https://instagram.com/example",
     facebook: "https://facebook.com/example",
